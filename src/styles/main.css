@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("./_fonts.css");
+
+body {
+  background-color: #f3f4f6;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+}
